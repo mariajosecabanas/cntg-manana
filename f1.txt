@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 modif ricardo
 =======
 <<<<<<< HEAD
@@ -9,3 +10,6 @@ modif ricardo
 Cambiado texto en linea 1
 >>>>>>> origin/funcionalidad/cabanas
 >>>>>>> 4ab5476d1ce63364ffb4d0b9b0db3938057ba959
+=======
+modif ricardo
+>>>>>>> funcionalidad/cabanas
