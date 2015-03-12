@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Fichero 4 cntg2
+Más líneas
+=======
 Fichero 4 cntg2 modificado por Susana
+>>>>>>> 3b9f5ddb8df7c46784252a5c39b245c4a40a33b4
